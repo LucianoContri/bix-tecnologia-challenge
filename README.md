@@ -1,4 +1,4 @@
-# Bix Tecnologia Maintenance Optimization
+# Maintenance Optimization
 
 ## Overview
 
